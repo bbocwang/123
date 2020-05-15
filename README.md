@@ -1,2 +1,2 @@
 # GRE
-Please feel free to fork/download
+Please feel free to star/fork/download
